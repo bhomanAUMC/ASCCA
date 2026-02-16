@@ -5,6 +5,7 @@
 # directory.
 
 ##################################################
+# copying the input files from a given location to a given location
 
 RunCopyInput <- function(path.copy.from, path.copy.to){
   
@@ -19,10 +20,7 @@ RunCopyInput <- function(path.copy.from, path.copy.to){
 }
 
 ##################################################
-
-# een functie maken die het model en de bijbehorende
-# bestanden aanwijst en kopieerd naar alle Men en Women
-
+# copying the model files from a location to a location
 
 RunCopyModel <- function(path.copy.from, path.copy.to){
   
