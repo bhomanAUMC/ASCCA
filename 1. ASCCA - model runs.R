@@ -2,7 +2,7 @@
 # where the files need to be copied from and towards
 # in order to run the model. So it copies the model files
 # and all the input files needed to run ASCCA from a set
-# directory
+# directory.
 
 ##################################################
 
