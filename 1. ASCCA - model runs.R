@@ -1,7 +1,8 @@
-# hier een function maken waarin wordt aangegeven
-# waar de bestanden vandaan gehaald moeten worden
-# en waar de bestanden heen moeten (voor men/women)
-
+# This is an important function in R that determines
+# where the files need to be copied from and towards
+# in order to run the model. So it copies the model files
+# and all the input files needed to run ASCCA from a set
+# directory
 
 ##################################################
 
